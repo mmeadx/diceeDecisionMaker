@@ -7,10 +7,10 @@ var randomNumber3 = Math.floor((Math.random() * 6) + 1);
 var randomNumber4 = Math.floor((Math.random() * 6) + 1);
 
 // Print in console to check
-console.log(randomNumber1);
-console.log(randomNumber2);
-console.log(randomNumber3);
-console.log(randomNumber4);
+console.log("User 1 - Die 1 : " + randomNumber1);
+console.log("User 1 - Die 2 : " + randomNumber3);
+console.log("User 2 - Die 1 : " + randomNumber2);
+console.log("User 2 - Die 2 : " + randomNumber4);
 
 // Assign dice names with random number
 var randomDiceImage1 = "dice" + randomNumber1 + ".png";
