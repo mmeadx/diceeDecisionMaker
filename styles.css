@@ -54,3 +54,7 @@ footer {
   font-family: 'Amatic SC', cursive;
 
 }
+
+a:hover, a:visited {
+  color: #dddddd;
+}
