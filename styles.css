@@ -1,0 +1,56 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+button {
+  background-color: #dddddd;
+  font-family: 'Amatic SC', cursive;
+  font-size: 2rem;
+  border-radius: 1rem;
+}
+
+body {
+  background-color: #182333;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Amatic SC', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #dddddd;
+}
+
+h3 {
+  margin: 30px;
+  font-family: 'Amatic SC', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 2em;
+  color: #dddddd;
+}
+
+p {
+  font-size: 2rem;
+  color: #dddddd;
+  font-family: 'Amatic SC', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+
+}
