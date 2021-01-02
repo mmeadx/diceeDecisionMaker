@@ -5,7 +5,7 @@ _A simple dice game using DOM Manipulation - modified code from a lesson in [Ude
 **Click on the 'Roll' button to roll the dice**
 
 
-Using JavaScript and DOM Manipulation the program creates two random numbers and associates them with a corresponding dice image to display on screen. The JavaScript file also uses Else If statements to display the winner (or draw) at the top of the page.
+Using JavaScript and DOM Manipulation the program creates four random numbers and associates them with a corresponding dice image to display on screen. Adding the dice to determine each user's total, the app uses Else If statements to display the winner (or draw) at the top of the page. 
 
 
 Click [HERE](https://mmeadx.github.io/diceeDecisionMaker/) to play
